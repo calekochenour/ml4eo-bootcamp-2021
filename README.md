@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/calekochenour/ml4eo-bootcamp-2021/tree/binder_test/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/calekochenour/ml4eo-bootcamp-2021/binder_test)
 
 # A Training of Trainers Bootcamp on Machine Learning for Earth Observations 
 
