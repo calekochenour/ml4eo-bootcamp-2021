@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/calekochenour/ml4eo-bootcamp-2021/tree/binder_test/HEAD)
+
 # A Training of Trainers Bootcamp on Machine Learning for Earth Observations 
 
 This repository contains materials from the virtual ML4EO Bootcamp run from May 3 through May 14. 
